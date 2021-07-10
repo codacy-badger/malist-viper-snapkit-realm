@@ -8,11 +8,13 @@
 
 import UIKit
 import RealmSwift
+import UserExperior
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
+    
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
         Realm.Configuration.defaultConfiguration.deleteRealmIfMigrationNeeded = true
@@ -23,6 +25,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         self.window = UIWindow(frame: UIScreen.main.bounds)
         self.window?.rootViewController = initialController
         self.window?.makeKeyAndVisible()
+        
+        UserExperior.initialize("76338b1c-c45c-48a9-bfcb-9603d01756a4")
         
         return true
     }

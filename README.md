@@ -1,10 +1,11 @@
-![Language](https://img.shields.io/badge/swift-5.0-brightgreen.svg)
-![License](https://img.shields.io/github/license/JakeLin/SwiftWeather.svg?style=flat)
-[![Build Status](https://travis-ci.org/tirupati17/malist-viper-snapkit-realm.svg?branch=master)](https://travis-ci.org/tirupati17/malist-viper-snapkit-realm)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3602b30b128d40bab1800d9adf5e7554)](https://www.codacy.com/project/tirupati17/malist-viper-snapkit-realm/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tirupati17/malist-viper-snapkit-realm&amp;utm_campaign=Badge_Grade_Dashboard)
+![Language](https://img.shields.io/badge/Swift-5.0-green)
+![License](https://img.shields.io/badge/License-MIT-green)
+[![SwiftLint tirupati17](https://img.shields.io/badge/SwiftLint-tirupati17-green)](https://github.com/tirupati17/swiftlint-tirupati)  
+[![Build Status](https://app.bitrise.io/app/5f66331c3fb3b599/status.svg?token=YjBRFLcOEdbCmpBVn5Co8w)](https://app.bitrise.io/app/5f66331c3fb3b599)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3d5687797fd74751bb95ca10bc96fefc)](https://www.codacy.com/manual/Celerstudio/malist-viper-snapkit-realm?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tirupati17/malist-viper-snapkit-realm&amp;utm_campaign=Badge_Grade)
 
-![MAList](https://raw.githubusercontent.com/tirupati17/malist-viper-snapkit-realm/master/MAList/Resources/screenshot1.PNG)
-![MAList](https://raw.githubusercontent.com/tirupati17/malist-viper-snapkit-realm/master/MAList/Resources/screenshot2.PNG)
+![MAList](https://raw.githubusercontent.com/tirupati17/malist-viper-snapkit-realm/develop/MAList/Resources/screenshot1.PNG)
+![MAList](https://raw.githubusercontent.com/tirupati17/malist-viper-snapkit-realm/develop/MAList/Resources/screenshot2.PNG)
 
 ### Description
 *MAList* is an iOS app based on __VIPER (View Interactor Presenter Entity Router)__ software architectural pattern.
